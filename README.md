@@ -1,2 +1,2 @@
 # web-log
-Store files destined for eternity.
+HTML log of activities and ideas.
